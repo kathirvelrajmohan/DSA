@@ -1,4 +1,4 @@
-# Data Structures and Algorithms in Java
+# DSA
 
 Welcome to my repository for learning data structures and algorithms in Java! In this repository, you'll find code examples and implementations of various data structures and algorithms as I learn and practice them.
 
